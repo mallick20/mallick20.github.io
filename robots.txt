@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mallik20.github.io/sitemap.xml
+Sitemap: https://mallick20.github.io/sitemap.xml
