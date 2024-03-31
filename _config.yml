@@ -207,6 +207,9 @@ kramdown:
 # include: ["_pages"]
 include:
   - _pages/about.md
+  - _pages/projects.md
+  - _pages/cv.md
+
 exclude:
   - bin/
   - CONTRIBUTING.md
