@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Data Scientist at Applied Data Finance
+subtitle: Data Science Grad Student @ Rutgers
 
 profile:
   align: right
@@ -23,8 +23,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Data Scientist currently working in one of the leading financial services provider to sub-prime customers. 
-Broadly, my current work revolves around using NLP techniques on document intelligence, customer interaction to improve the overall operations and compliance process. One of the critical aspects I work on risk identification from customers' interaction and helping with quicket turnaround and resolve time.
-Prior to this, I was working on building analytics models and strategies to improve the business process.
+I am a Data Science Grad Student at Rutgers. 
+Prior to this I worked as a Senior Data Scientist at ADF, one of the leading financial services provider to sub-prime customers. 
 
-Outside of work, I have a keen interest in physics and mathematics. I like to watch a lot of these videos in my free time.
+My research interests broadly include NLP, High-Dimensional Statistics.
+
+Please find my CV here.
+
+Outside of work, I have a keen interest in physics and mathematics. Please find some of my hobbies here.
