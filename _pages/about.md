@@ -23,11 +23,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Data Science Grad Student at Rutgers. 
-Prior to this I worked as a Senior Data Scientist at ADF, one of the leading financial services provider to sub-prime customers. 
-
-My research interests broadly include NLP, High-Dimensional Statistics.
+I am a Data Science Masters Student at Rutgers University. 
+Prior to starting my graduate education, I worked asa Data Scientist in the industry, specifically in BFSI domain. 
 
 Please find my CV here.
 
-Outside of work, I have a keen interest in physics and mathematics. Please find some of my hobbies here.
+My research interests lie in solving problems in NLP, ranging from Document Classification to Multimodal Learning.  
+
+Outside of work, I have a keen interest in physics and mathematics and would love to watch a 3Blue1Brown or a Veritaium. Please find some of my hobbies here.
