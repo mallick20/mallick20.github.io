@@ -2,7 +2,7 @@
 layout: page
 title: Real-Time Tweet Classification
 description: 
-img: 
+img: assets/img/tweet_project_0.jpg
 importance: 1
 category: nlp
 related_publications: false
