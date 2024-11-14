@@ -23,11 +23,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Data Science Masters Student at Rutgers University. 
-Prior to starting my graduate education, I worked asa Data Scientist in the industry, specifically in BFSI domain. 
+I am a graduate student pursuing Masters in Data Science at Rutgers University
+Prior to starting my graduate education, I worked as a Data Scientist in the industry, specifically in the BFSI domain. I have over three years of experience delivering end to end projects in analytics like developing classification models for payment behavior, creating customer engagement campaigns, and improving call strategies through predictive analytics. In my recent role as Senior Data Scientist, I led AI and NLP-driven projects that enhanced operational efficiency and risk management strategies.
 
-Please find my CV here.
+My research interests currently revolve around themes of Explainable AI, Privacy and NLP use-cases. I am also learning more into statistical theory involving bayesian statistics and its impact on AI.
 
-My research interests lie in solving problems in NLP, ranging from Document Classification to Multimodal Learning.  
-
-Outside of work, I have a keen interest in physics and mathematics and would love to watch a 3Blue1Brown or a Veritaium. Please find some of my hobbies here.
+Outside of work, I have a keen interest in physics and mathematics and would love to learn a new theory or watch a 3Blue1Brown video.
