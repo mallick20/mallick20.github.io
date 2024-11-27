@@ -3,7 +3,7 @@ layout: page
 title: Indian Language Machine Translation
 description: 
 img: assets/img/mt_project_1.jpg
-importance: 2
+importance: 3
 category: nlp
 related_publications: false
 ---
