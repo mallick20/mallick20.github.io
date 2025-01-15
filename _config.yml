@@ -209,6 +209,7 @@ include:
   - _pages/about.md
   - _pages/projects.md
   - _pages/cv.md
+  - _pages/blog.md
 
 exclude:
   - bin/
