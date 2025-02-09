@@ -7,4 +7,4 @@ tags: thinking
 categories: sample-posts
 ---
 
-This is a blog about Intelligent Thinking.
+Does thinking increase your intelligence. Or does Intelligence influence your thinking. At some point is something of both.

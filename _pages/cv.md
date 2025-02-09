@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /assets/pdf/Resume_Website.pdf
+permalink: /assets/pdf/AnuragMallick_cv.pdf
 title: Resume
 nav: true
 nav_order: 5

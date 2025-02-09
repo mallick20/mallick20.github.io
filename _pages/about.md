@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Science Grad Student @ Rutgers
+subtitle: Grad Student at Rutgers University
 
 profile:
   align: right
@@ -23,10 +23,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a graduate student pursuing Masters in Data Science at Rutgers University.
+I am a graduate student pursuing Masters in Data Science at Rutgers University. As a grad student I am diving deeper into statistical modelling, regression and non-linear models. On the other hand, I am working on AI projects through internship.
 
-Prior to starting my graduate education, I worked as a Data Scientist in the industry, specifically in the BFSI domain. I have over three years of experience delivering end to end projects in analytics like developing classification models for payment behavior, creating customer engagement campaigns, and improving call strategies through predictive analytics. In my recent role as Senior Data Scientist, I led AI and NLP-driven projects that enhanced operational efficiency and risk management strategies.
+Prior to starting my graduate education, I worked as a Data Scientist in the Operations Analysis working on projects encompassing analytics, strategies and predictive modelling. Concurrently, I also led AI and NLP-driven projects that enhanced operational efficiency and risk management strategies.
 
-My research interests currently revolve around themes of Explainable AI, Privacy and NLP use-cases. I am also learning more into statistical theory involving bayesian statistics and its impact on AI.
-
-Outside of work, I have a keen interest in physics and mathematics and would love to learn a new theory or watch a 3Blue1Brown video.
+Outside of AI, I have a keen interest in physics and mathematics and would be analysing a new scenario of relativity or watching a calculus video by Grant Sanderson.
